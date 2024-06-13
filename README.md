@@ -1,4 +1,4 @@
-# nutriscan
+# Clean Architecture Folder Structure
 
 A new Flutter project.
 
